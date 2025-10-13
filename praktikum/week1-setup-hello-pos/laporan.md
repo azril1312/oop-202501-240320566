@@ -11,7 +11,7 @@ Topik: [OOP,Procedural,Functional]
 ## Tujuan
 1. Mahasiswa mampu memahami konsep dasar dari ketiga paradigma pemrograman tersebut.
 2. Mahasiswa mamapu mengenal kelebihan dan kekurangan dari masing-masing paradigma pemrograman.
-3. Mahasiswa mampu mengembangkan kemampuan analisis dalam memilih paradigma pemrograman yang         tepat untuk suatu masalah.
+3. Mahasiswa mampu mengembangkan kemampuan analisis dalam memilih paradigma pemrograman yang tepat untuk suatu masalah.
 
 ---
 
@@ -68,8 +68,6 @@ List<String> produk = Arrays.asList("Padi", "Sayuran", "Buah");
 ( !(Screenshots Procedural.png ))
 ( !(Screenshots HelloOOP.png ))
 ( !(Screenshots Functional.png ))
-https://github.com/azril1312/oop-202501-240320566/blob/main/praktikum/week1-setup-hello-pos/screenshots/Screenshot%20HelloFunctional.png?raw=true
-
 
 ---
 
