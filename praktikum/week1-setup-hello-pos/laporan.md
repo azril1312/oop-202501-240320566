@@ -68,6 +68,7 @@ List<String> produk = Arrays.asList("Padi", "Sayuran", "Buah");
 ( !(Screenshots Procedural.png ))
 ( !(Screenshots HelloOOP.png ))
 ( !(Screenshots Functional.png ))
+https://github.com/azril1312/oop-202501-240320566/blob/main/praktikum/week1-setup-hello-pos/screenshots/Screenshot%20HelloFunctional.png?raw=true
 
 
 ---
