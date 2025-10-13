@@ -68,6 +68,8 @@ List<String> produk = Arrays.asList("Padi", "Sayuran", "Buah");
 ( !(Screenshots Procedural.png ))
 ( !(Screenshots HelloOOP.png ))
 ( !(Screenshots Functional.png ))
+<img width="1388" height="354" alt="Screenshot HelloFunctional" src="https://github.com/user-attachments/assets/882e16bb-4259-40fd-a937-6a5199db6176" />
+
 ---
 
 ## Analisis
