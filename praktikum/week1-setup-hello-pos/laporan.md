@@ -1,4 +1,4 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
+# Laporan Praktikum Minggu 1 
 Topik: [OOP,Procedural,Functional]
 
 ## Identitas
@@ -65,9 +65,15 @@ List<String> produk = Arrays.asList("Padi", "Sayuran", "Buah");
 ---
 
 ## Hasil Eksekusi
-( !(Screenshots Procedural.png ))
-( !(Screenshots HelloOOP.png ))
-( !(Screenshots Functional.png ))
+[Screenshots hasil Procedural]
+( !(Screenshots/Procedural.png ))
+
+[Screenshots hasil HelloOOP]
+( !(Screenshots/HelloOOP.png ))
+
+[Screenshots hasil Functional]
+( !(Screenshots/Functional.png ))
+
 ---
 
 ## Analisis
