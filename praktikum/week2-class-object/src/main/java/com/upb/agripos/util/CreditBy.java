@@ -1,4 +1,4 @@
-package main.java.com.upb.agripos.util;
+package com.upb.agripos.util;
 // creditBy.java
 
 public class CreditBy {

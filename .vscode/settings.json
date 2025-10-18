@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "praktikum/week2-class-object/src/main/java/com/upb/agripos",
+        "praktikum/week3-inheritance/src/main/java/com/upb/agripos"
+    ]
+}
