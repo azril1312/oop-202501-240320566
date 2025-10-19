@@ -30,6 +30,7 @@ Melakukan kompilasi dan menjalankan program menggunakan terminal dengan perintah
 2. File/Kode yang Dibuat
 Produk.java: berisi class Produk dengan atribut kode, nama, harga, dan stok.
 (Opsional) File Main.java untuk menguji pembuatan dan penggunaan object dari class Produk.  
+
 3. Commit message yang digunakan.commit dan push
 
 ---
@@ -85,5 +86,4 @@ Dengan menggunakan class dan object, program menjadi lebih terstruktur, modular,
 3)Bagaimana cara class Produk mendukung pengembangan aplikasi POS yang lebih kompleks?
     Jawaban: Class Produk dapat menjadi dasar pengelolaan data barang pada aplikasi POS dengan menyimpan informasi produk, mengatur stok, dan memudahkan pengembangan fitur tambahan seperti transaksi penjualan, laporan inventori, dan manajemen harga.  
 
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )
+
