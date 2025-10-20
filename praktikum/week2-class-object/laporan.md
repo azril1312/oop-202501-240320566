@@ -52,7 +52,8 @@ public static void main(String[] args) {
 ---
 
 ## Hasil Eksekusi
-![class and object](https://github.com/user-attachments/assets/371ad2ce-a736-4f74-9b8c-8f4338b21607)
+![class and object](https://github.com/user-attachments/assets/11fbf470-a9e8-45b0-8b6b-3a3bcce1957e)
+
 
 ---
 
