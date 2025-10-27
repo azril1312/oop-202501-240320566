@@ -1,4 +1,4 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
+# Laporan Praktikum Minggu 1 
 Topik: [OOP,Procedural,Functional]
 
 ## Identitas
@@ -43,7 +43,6 @@ menjalankan coding dengan output
 
 
 ## Kode Program
-(Tuliskan kode utama yang dibuat, contoh:  
 
 ```java
 // OOP
@@ -68,7 +67,6 @@ List<String> produk = Arrays.asList("Padi", "Sayuran", "Buah");
 ( !(Screenshots Procedural.png ))
 ( !(Screenshots HelloOOP.png ))
 ( !(Screenshots Functional.png ))
-
 ---
 
 ## Analisis
