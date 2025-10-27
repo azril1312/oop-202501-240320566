@@ -18,5 +18,5 @@ public class MainInheritance {
         System.out.println("Alat Pertanian: " + a.getNama() + " Material: " + a.getMaterial());
 
         CreditBy.print("Azril Rabbani Fawa", "240320566");
-   }
+    }
 }
