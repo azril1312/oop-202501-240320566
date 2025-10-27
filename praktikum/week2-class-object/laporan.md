@@ -2,9 +2,9 @@
 Topik: ["Class and Object"]
 
 ## Identitas
-- Nama  : [Azril Rabbani Fawa]
-- NIM   : [240320566]
-- Kelas : [3DSRA]
+- Nama  : Azril Rabbani Fawa
+- NIM   : 240320566
+- Kelas : 3DSRA
 
 ---
 
@@ -38,22 +38,16 @@ Produk.java: berisi class Produk dengan atribut kode, nama, harga, dan stok.
 ---
 
 ## Kode Program
+(Tuliskan kode utama yang dibuat, contoh:  
+
 ```java
-// Produk.java
- Produk p1 = new Produk("PPK", "Pupuk kompos", 250000, 100);
- System.out.println("Kode: " + p1.kode);
-
-// CreditBy.java
-public static void print(String nama, String nim) {
-        System.out.println("\ncredit by: " + nama + " - " + nim);
-
-// MainProduk.java
-public static void main(String[] args) {
-        Produk p1 = new Produk("BNH-001", "Benih Kedelai IR64", 25000, 100);
-        Produk p2 = new Produk("PPU-101", "Pupuk kompos 50kg", 350000, 40);
-        Produk p3 = new Produk("PPK-501", "Pupuk Konsentrat 50", 250000, 15);
-
+// Contoh
+Produk p1 = new Produk("BNH-001", "Benih Padi", 25000, 100);
+System.out.println(p1.getNama());
+```
+)
 ---
+
 ## Hasil Eksekusi
 ![alt text](<class and object.jpg>)
 ---
@@ -80,12 +74,11 @@ Dengan menggunakan class dan object, program menjadi lebih terstruktur, modular,
 ---
 
 ## Quiz
-1. Mengapa atribut sebaiknya dideklarasikan sebagai private dalam class?
-    Jawaban: Karena atribut yang bersifat private melindungi data agar tidak dapat diakses atau diubah langsung dari luar class, sehingga menjaga keamanan dan konsistensi data sesuai prinsip enkapsulasi.
+(1. [Tuliskan kembali pertanyaan 1 dari panduan]  
+   **Jawaban:** …  
 
-2. Apa fungsi getter dan setter dalam enkapsulasi?
-    Jawaban: Fungsi getter adalah untuk mengambil nilai dari atribut privat, sedangkan setter digunakan untuk mengubah nilainya secara terkontrol agar tetap sesuai aturan yang ditentukan dalam class.
+2. [Tuliskan kembali pertanyaan 2 dari panduan]  
+   **Jawaban:** …  
 
-3. Bagaimana cara class Produk mendukung pengembangan aplikasi POS yang lebih kompleks?
-    Jawaban: Class Produk dapat menjadi dasar pengelolaan data barang pada aplikasi POS dengan menyimpan informasi produk, mengatur stok, dan memudahkan pengembangan fitur tambahan seperti transaksi penjualan, laporan inventori, dan manajemen harga.
-
+3. [Tuliskan kembali pertanyaan 3 dari panduan]  
+   **Jawaban:** …  )

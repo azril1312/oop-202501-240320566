@@ -2,12 +2,18 @@ package com.upb.agripos;
 
 import com.upb.agripos.model.Produk;
 import com.upb.agripos.util.CreditBy;
+// mainproduk.java
+
+import model.Produk;
+import util.CreditBy;
 
 public class MainProduk {
     public static void main(String[] args) {
         Produk p1 = new Produk("BNH-001", "Benih Kedelai IR64", 25000, 100);
         Produk p2 = new Produk("PPU-101", "Pupuk kompos 50kg", 350000, 40);
+
         Produk p3 = new Produk("PPK-501", "cangkul besi 50kg", 250000, 15);
+        Produk p3 = new Produk("PPK-501", "Pupuk Konsentrat 50kg", 250000, 15);
 
         System.out.println("Kode: " + p1.getKode() + ", Nama: " + p1.getNama() + ", Harga: " + p1.getHarga() + ", Stok: " + p1.getStok());
         System.out.println("Kode: " + p2.getKode() + ", Nama: " + p2.getNama() + ", Harga: " + p2.getHarga() + ", Stok: " + p2.getStok());
@@ -24,6 +30,12 @@ public class MainProduk {
 
         // Tampilkan identitas mahasiswa nama dan nim
         CreditBy.print("Azril Rabbani fawa", "240320566");
+        
+    }
+}
+
+        // Tampilkan identitas mahasiswa nama dan nim
+        CreditBy.print("Azril Rabbani Fawa", "240320566");
         
     }
 }
