@@ -4,7 +4,7 @@ Topik: Inheritance (Kategori Produk)
 ## Identitas
 - Nama  : Azril Rabbani Fawa
 - NIM   : 240320566
-- Kelas : 3DSRA
+- Kelas : 3DSRA.
 ---
 
 ## Tujuan
