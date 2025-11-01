@@ -95,7 +95,8 @@ public static void main(String[] args) {
 ---
 
 ## Hasil Eksekusi
-c:\Users\ASUS\Documents\MainPolymorphism\Screenshot 2025-11-01 105603.png
+<img width="866" height="183" alt="Screenshot 2025-11-01 105603" src="https://github.com/user-attachments/assets/489d3093-232e-4f13-ae82-8e65dd778ef7" />
+
 ---
 
 ## Analisis
