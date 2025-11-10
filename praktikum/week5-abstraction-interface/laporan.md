@@ -105,8 +105,9 @@ public static void main(String[] args) {
 ---
 
 ## Hasil Eksekusi
-c:\Users\ASUS\Documents\abstraction interface\Screenshot 2025-11-10 184916.png
----
+<img width="1542" height="176" alt="Screenshot 2025-11-10 184916" src="https://github.com/user-attachments/assets/c31e3831-3c1d-42b9-b480-76c2e8841b5c" />
+
+
 
 ## Analisis
 (
