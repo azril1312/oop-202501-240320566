@@ -1,6 +1,5 @@
 package com.upb.agripos.model.pembayaran;
 
-
 public abstract class Pembayaran {
     protected String invoiceNo;
     protected double total;
