@@ -90,7 +90,7 @@ Pada praktikum minggu ini, penggunaan Collection seperti ArrayList atau Map memu
 Kendala utama yang ditemukan dalam pengerjaan praktikum ini adalah munculnya error cannot find symbol, yang disebabkan oleh ketidaksesuaian antara deklarasi package, struktur direktori, dan pemanggilan class antar file. Akibatnya, compiler Java tidak dapat mengenali class Product dan ShoppingCart saat digunakan di dalam kelas MainCart.
 
 Permasalahan tersebut diatasi dengan menyeragamkan deklarasi package pada seluruh file Java serta memastikan struktur folder telah sesuai dengan package yang digunakan. Selain itu, dilakukan pengecekan ulang terhadap penulisan nama class, constructor, dan method agar sesuai dengan aturan penulisan Java. Setelah perbaikan dilakukan, program berhasil dikompilasi dan dijalankan dengan baik tanpa mengalami error. 
-)
+
 ---
 
 ## Kesimpulan
