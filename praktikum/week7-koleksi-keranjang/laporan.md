@@ -70,7 +70,8 @@ public class MainCart {
 }
 
 ## Hasil eksekusi
-![alt text](<Screenshot 2025-12-31 102931.png>)
+<img width="863" height="226" alt="Screenshot 2025-12-31 102931" src="https://github.com/user-attachments/assets/595ed974-4d5e-43e0-8813-f8b8dd6aeaab" />
+
 
 
 ## Analisis
