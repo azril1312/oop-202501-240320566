@@ -1,4 +1,4 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
+# Laporan Praktikum Minggu 7 (sesuaikan minggu ke berapa?)
 Topik: [Bab 7 – Collections dan Implementasi Keranjang Belanja]
 
 ## Identitas
