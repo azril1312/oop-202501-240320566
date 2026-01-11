@@ -110,7 +110,8 @@ public class MainExceptionDemo {
 
 ## Hasil Eksekusi
 Screenshot hasil eksekusi program:  
-![Screenshot hasil](/praktikum/week9-exception-handling/screenshots/hasilWeek9-exception.png)
+<img width="877" height="119" alt="Screenshot 2026-01-11 204810" src="https://github.com/user-attachments/assets/eb65b914-f9e7-4b4c-a07c-7d8bf6cb5f67" />
+
 
 ---
 
