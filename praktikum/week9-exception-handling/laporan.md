@@ -110,25 +110,32 @@ public class MainExceptionDemo {
 
 ## Hasil Eksekusi
 Screenshot hasil eksekusi program:  
+<<<<<<< HEAD
 <img width="877" height="119" alt="Screenshot 2026-01-11 204810" src="https://github.com/user-attachments/assets/eb65b914-f9e7-4b4c-a07c-7d8bf6cb5f67" />
 
 
+=======
+![alt text](<Screenshot 2026-01-11 204810.png>)
+>>>>>>> 20cbb75 (week10-pattern-testing)
 ---
 
 ## Analisis
 - Jelaskan bagaimana kode berjalan. 
     
-    Program dijalankan melalui kelas MainExceptionDemo yang berfungsi sebagai kelas utama. Pada awal eksekusi, program menampilkan identitas praktikan sebagai penanda awal program. Selanjutnya, dibuat sebuah objek ShoppingCart sebagai keranjang belanja dan sebuah objek Product yang merepresentasikan produk dengan atribut kode, nama, harga, dan stok.    
-    Program kemudian menguji beberapa skenario kesalahan menggunakan blok try–catch. Pada skenario pertama, method addProduct() dipanggil dengan jumlah negatif sehingga memicu InvalidQuantityException. Exception tersebut ditangkap dan pesan kesalahan ditampilkan ke layar. Pada skenario kedua, method removeProduct() dipanggil ketika produk belum ada di dalam keranjang, sehingga memicu ProductNotFoundException. Selanjutnya, pada skenario terakhir, produk ditambahkan dengan jumlah melebihi stok dan proses checkout() dijalankan, yang menyebabkan exception terkait stok tidak mencukupi. Dengan alur ini, program menunjukkan bagaimana custom exception digunakan untuk memvalidasi kondisi keranjang belanja secara aman dan terkontrol.
+      Program dieksekusi melalui kelas MainExceptionDemo yang berperan sebagai kelas utama. Saat program mulai dijalankan, sistem terlebih dahulu menampilkan identitas praktikan sebagai penanda awal eksekusi. Selanjutnya, program membentuk sebuah objek ShoppingCart yang berfungsi sebagai keranjang belanja serta sebuah objek Product yang merepresentasikan data produk, meliputi kode produk, nama, harga, dan jumlah stok.
+
+      Setelah inisialisasi objek, program mensimulasikan beberapa kondisi kesalahan dengan memanfaatkan blok try–catch. Pada pengujian pertama, method addProduct() dipanggil dengan jumlah negatif sehingga memicu InvalidQuantityException. Exception ini kemudian ditangkap dan pesan kesalahan ditampilkan ke layar. Pada pengujian berikutnya, method removeProduct() dijalankan ketika produk belum terdapat di dalam keranjang, sehingga menyebabkan ProductNotFoundException. Pada skenario terakhir, produk ditambahkan dengan jumlah yang melebihi stok yang tersedia, lalu proses checkout() dijalankan, yang menghasilkan exception akibat stok tidak mencukupi. Melalui alur tersebut, program memperlihatkan penerapan custom exception dalam memvalidasi proses pada keranjang belanja secara aman dan terstruktur.
 
 - Apa perbedaan pendekatan minggu ini dibanding minggu sebelumnya. 
 
-    Pendekatan pada praktikum minggu ini berfokus pada Exception Handling dengan menggunakan custom exception untuk menangani kondisi kesalahan secara eksplisit. Pada minggu sebelumnya, validasi data masih mengandalkan alur logika biasa seperti pengecekan kondisi (if–else) tanpa mekanisme penanganan kesalahan yang terstruktur.    
-    Dengan penggunaan custom exception, kesalahan tidak hanya terdeteksi tetapi juga dipisahkan dari alur bisnis utama program. Hal ini membuat kode menjadi lebih rapi, mudah dipelihara, dan lebih jelas dalam mendefinisikan jenis kesalahan yang mungkin terjadi. Pendekatan ini juga meningkatkan keandalan program karena kesalahan dapat ditangani tanpa menghentikan keseluruhan proses aplikasi.
+      Pendekatan yang digunakan pada praktikum minggu ini menitikberatkan pada penerapan Exception Handling, khususnya dengan memanfaatkan custom exception untuk menangani berbagai kondisi kesalahan secara lebih spesifik. Berbeda dengan praktikum minggu sebelumnya, proses validasi masih dilakukan menggunakan logika dasar seperti percabangan if–else tanpa adanya mekanisme penanganan kesalahan yang terorganisir.
+
+      Dengan penerapan custom exception, kesalahan tidak hanya dapat diidentifikasi dengan jelas, tetapi juga dipisahkan dari alur logika utama program. Hal ini menjadikan struktur kode lebih rapi, mudah dipahami, serta lebih mudah dalam proses pengembangan dan pemeliharaan. Selain itu, pendekatan ini meningkatkan stabilitas program karena kesalahan dapat ditangani tanpa menghentikan seluruh proses aplikasi.
 
 - Kendala yang dihadapi dan cara mengatasinya.  
-    Kendala yang dihadapi dalam praktikum ini adalah menentukan kondisi validasi yang tepat dan memastikan exception dilempar pada method yang sesuai, seperti tambahProduk, hapusProduk, dan checkout. Selain itu, muncul kesalahan ketika exception belum didefinisikan atau belum ditangkap dengan benar sehingga menyebabkan program berhenti secara tiba-tiba.
-    Kendala tersebut diatasi dengan membuat custom exception secara terpisah, menyesuaikan pesan kesalahan agar lebih informatif, serta menerapkan blok try–catch pada kelas utama. Dengan cara ini, setiap kesalahan dapat ditangani dengan baik dan program tetap berjalan sesuai dengan alur yang diharapkan.
+      Kendala utama yang ditemui dalam praktikum ini adalah menentukan kondisi validasi yang tepat serta memastikan exception dilemparkan pada method yang sesuai, seperti tambahProduk, hapusProduk, dan checkout. Selain itu, terdapat permasalahan ketika exception belum didefinisikan atau belum ditangani dengan benar, sehingga menyebabkan program berhenti secara tidak terduga.
+
+      Permasalahan tersebut diatasi dengan mendefinisikan custom exception secara terpisah, memperbaiki dan memperjelas pesan kesalahan agar lebih informatif, serta menerapkan blok try–catch pada kelas utama. Dengan penerapan tersebut, setiap kesalahan dapat ditangani dengan baik sehingga program tetap berjalan sesuai dengan alur yang telah dirancang.
 
 ---
 
