@@ -9,7 +9,7 @@ public class AppMVC {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello, I am [Fendy agustian]-[240202898] (Week10)");
+        System.out.println("Hello, I am [Azril Rabbani Fawa]-[240320566] (Week10)");
 
         // Uji Singleton
         DatabaseConnection db1 = DatabaseConnection.getInstance();

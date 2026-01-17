@@ -139,7 +139,7 @@ import com.upb.agripos.controller.ProductController;
 
 public class AppMVC {
     public static void main(String[] args) {
-        System.out.println("Hello, I am Fendy Agustian-240202898 (Week10)");
+        System.out.println("Hello, I am Azril Rabbani Fawa-240320566 (Week10)");
 
         Product product = new Product("P01", "Pupuk Organik");
         ConsoleView view = new ConsoleView();
