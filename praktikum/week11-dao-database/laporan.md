@@ -278,8 +278,10 @@ Program berhasil dijalankan dengan hasil sebagai berikut:
 - **DELETE**: Data produk berhasil dihapus dari database
 
 Screenshot hasil eksekusi tersimpan di `screenshots
-![alt text](<Screenshot 2026-01-18 235631.png>)
-![alt text](<Screenshot 2026-01-18 235252.png>)
+<img width="813" height="773" alt="Screenshot 2026-01-18 235252" src="https://github.com/user-attachments/assets/8a1a49ff-07cb-4a93-bec3-e39bdffad215" />
+
+<img width="1173" height="284" alt="Screenshot 2026-01-18 235631" src="https://github.com/user-attachments/assets/6f7990c1-e982-4ac2-bede-52563cb97c16" />
+
 ---
 
 ## Analisis
