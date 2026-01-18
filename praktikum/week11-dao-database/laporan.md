@@ -209,7 +209,7 @@ import com.upb.agripos.model.Product;
 
 public class MainDAOTest {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, I am Fendy Agustian-240202898 (Week11)");
+        System.out.println("Hello, I am Azril Rabbani Fawa-240320566 (Week11)");
         
         // Koneksi ke database
         Connection conn = DriverManager.getConnection(
@@ -277,8 +277,9 @@ Program berhasil dijalankan dengan hasil sebagai berikut:
 - **UPDATE**: Data produk berhasil diperbarui
 - **DELETE**: Data produk berhasil dihapus dari database
 
-Screenshot hasil eksekusi tersimpan di `screenshots`
-
+Screenshot hasil eksekusi tersimpan di `screenshots
+![alt text](<Screenshot 2026-01-18 235631.png>)
+![alt text](<Screenshot 2026-01-18 235252.png>)
 ---
 
 ## Analisis

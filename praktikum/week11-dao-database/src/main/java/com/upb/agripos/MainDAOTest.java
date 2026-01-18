@@ -15,9 +15,9 @@ public class MainDAOTest {
             System.out.println("====================================");
 
             Connection conn = DriverManager.getConnection(
-                "jdbc:postgresql://localhost:5432/agripos",
+                "jdbc:postgresql://localhost:5432/postgres",
                 "postgres",
-                "1234"
+                "azril244344"
             );
 
             System.out.println("KONEKSI DATABASE BERHASIL");
