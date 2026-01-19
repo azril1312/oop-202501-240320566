@@ -74,9 +74,8 @@ public class AppJavaFX extends Application {
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-c:\Users\ASUS\Documents\tugas\gui_formproduk.png
-)
+<img width="675" height="787" alt="gui" src="https://github.com/user-attachments/assets/1b969cea-00bf-4e74-a902-ac61824e1f97" />
+
 ---
 
 ## Analisis
