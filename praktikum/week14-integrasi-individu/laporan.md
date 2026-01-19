@@ -63,7 +63,7 @@ public class AppJavaFX extends Application {
 
         Scene scene = new Scene(view.getRoot(), 1000, 600);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("AgriPOS - Bunga Maura Aulya");
+        primaryStage.setTitle("AgriPOS - Azril Rabbani Fawa");
         primaryStage.show();
     }
 
