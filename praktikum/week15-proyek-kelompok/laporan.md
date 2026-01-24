@@ -169,6 +169,9 @@ src/main/java/com/upb/agripos/
 ---
 
 ## 4. UML Lengkap
+<img width="1303" height="1289" alt="UML_CLASS_OOP" src="https://github.com/user-attachments/assets/ef180f5a-76ec-4efe-86e0-8d5dc041d6ce" />
+
+
 
 ### 4.1 Use Case Diagram
 
