@@ -3,11 +3,11 @@ Topik: **AgriPOS - Agricultural Point of Sale System**
 
 ## 1. Identitas Kelompok
 - **Nama Anggota Kelompok**:
-  1. Azril Rabbani Fawa   (240320566)
-  2. Taufik Nur Hidayat   (240320567)
-  3. Dian Nur Safitri     (240320563)
-  4. Febiana Saputri      (240320569)
-  5. Wisnu Wibowo Saputro (240320565)
+  1. Azril Rabbani Fawa   (240320566) [Backend Architect & DAO]
+  2. Taufik Nur Hidayat   (240320567) [Integration & DevOps]
+  3. Dian Nur Safitri     (240320563) [QA & Testing Engineer]
+  4. Febiana Saputri      (240320569) [System Analyst & Docs]
+  5. Wisnu Wibowo Saputro (240320565) [Nothing contribution]
 - **Kelas**: 3DSRA
 - **Periode**: Minggu 15 (Proyek Kelompok Final)
 
