@@ -3,11 +3,11 @@ Topik: **AgriPOS - Agricultural Point of Sale System**
 
 ## 1. Identitas Kelompok
 - **Nama Anggota Kelompok**:
-  1. Azril Rabbani Fawa   (240320566)
-  2. Taufik Nur Hidayat   (240320567)
-  3. Dian Nur Safitri     (240320563)
-  4. Febiana Saputri      (240320569)
-  5. Wisnu Wibowo Saputro (240320565)
+  1. Azril Rabbani Fawa   (240320566) [Backend Architect & DAO]
+  2. Taufik Nur Hidayat   (240320567) [Integration & DevOps]
+  3. Dian Nur Safitri     (240320563) [QA & Testing Engineer]
+  4. Febiana Saputri      (240320569) [System Analyst & Docs]
+  5. Wisnu Wibowo Saputro (240320565) [Nothing contribution]
 - **Kelas**: 3DSRA
 - **Periode**: Minggu 15 (Proyek Kelompok Final)
 
@@ -169,6 +169,25 @@ src/main/java/com/upb/agripos/
 ---
 
 ## 4. UML Lengkap
+1. Class diagram
+   
+<img width="1303" height="1289" alt="UML_CLASS_OOP" src="https://github.com/user-attachments/assets/ef180f5a-76ec-4efe-86e0-8d5dc041d6ce" />
+
+2. ERD
+
+   <img width="1763" height="1101" alt="ERD_OOP_REV" src="https://github.com/user-attachments/assets/45c3346c-b90a-4d17-9b71-61a5397e8fc7" />
+
+3. use case diagram
+
+   <img width="785" height="662" alt="uml_use case" src="https://github.com/user-attachments/assets/6a730879-fb4e-4c66-a8d0-eeb0fa49e8fd" />
+
+
+4. sequence
+
+   <img width="1508" height="2589" alt="uml_sequence" src="https://github.com/user-attachments/assets/81e2d649-d196-4fe2-9d07-a440a109a293" />
+
+
+
 
 ### 4.1 Use Case Diagram
 
