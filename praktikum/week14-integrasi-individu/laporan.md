@@ -63,7 +63,7 @@ public class AppJavaFX extends Application {
 
         Scene scene = new Scene(view.getRoot(), 1000, 600);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("AgriPOS - Bunga Maura Aulya");
+        primaryStage.setTitle("AgriPOS - Azril Rabbani Fawa");
         primaryStage.show();
     }
 
@@ -79,9 +79,11 @@ public class AppJavaFX extends Application {
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil]oop-202501-240320566/praktikum/week14-integrasi-individu/screenshots/test.jpeg
+![test](https://github.com/user-attachments/assets/8231d3a7-0244-4088-b0b8-cbc77217f991)
 
-![Screenshot hasil]oop-202501-240320566/praktikum/week14-integrasi-individu/screenshots/app_main.jpeg
+
+![app_main](https://github.com/user-attachments/assets/cbfb7161-0787-4650-89a9-1b32830a6601)
+
 )
 
 ---
