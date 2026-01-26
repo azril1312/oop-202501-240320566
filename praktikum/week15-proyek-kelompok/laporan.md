@@ -959,7 +959,11 @@ Platform: Java 17, Maven 3.8.1, JUnit 5
 
 ### 8.1 Ringkasan Kontribusi Tim
 
-
+1. Azril Rabbani Fawa   (240320566) [Manajemen Backend & DAO]
+2. Taufik Nur Hidayat   (240320567) [Manajemen UI Kasir & Admin]
+3. Dian Nur Safitri     (240320563) [Metode Pembayaran & Transaksi]
+4. Febiana Saputri      (240320569) [Login & Hak Akses]
+5. Wisnu Wibowo Saputro (240320565) 
 ---
 
 ## 9. Kendala dan Solusi
